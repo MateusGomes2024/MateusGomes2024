@@ -3,9 +3,18 @@
 Sou estudante de *Ciência da Computação* (6º semestre - UNIFACCAMP) apaixonado por tecnologia, sistemas e dados!  
 Atualmente estou desenvolvendo meu *TCC: um **Sistema de Controle de Estoque* em *C# (Windows Forms)* com *SQL Server*, voltado para uma loja de materiais de construção.
 
----
 
-### 💻 Tecnologias e Ferramentas
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGomes2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGomes2024&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -21,22 +30,11 @@ Atualmente estou desenvolvendo meu *TCC: um **Sistema de Controle de Estoque* em
 
 ### ✨ Sobre mim
 
-- Cursando *Ciência da Computação* - 6º semestre
-- Buscando *primeira oportunidade como estagiário* na área de TI
-- Conhecimento em: *C#, SQL Server, Python, lógica, análise de dados, HTML/CSS*
-- Experiência de 8 anos no comércio, com foco em vendas e atendimento
+- Cursando *Ciência da Computação* - 6º semestre  
+- Buscando *primeira oportunidade como estagiário* na área de TI  
+- Conhecimento em: *C#, SQL Server, Python, lógica, análise de dados, HTML/CSS*  
+- Experiência de 8 anos no comércio, com foco em vendas e atendimento  
 - Apaixonado por aprender e crescer profissionalmente!
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/MateusGomes2024">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGomes2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGomes2024&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
