@@ -1,4 +1,4 @@
-## Opa! Eu sou o Mateus Gomes 👋
+## Opa! Eu sou o Mateus Ferreira Gomes 👋
 
 Sou estudante de *Ciência da Computação* (6º semestre - UNIFACCAMP) apaixonado por tecnologia, sistemas e dados!  
 Atualmente estou desenvolvendo meu *TCC: um **Sistema de Controle de Estoque* em *C# (Windows Forms)* com *SQL Server*, voltado para uma loja de materiais de construção.
